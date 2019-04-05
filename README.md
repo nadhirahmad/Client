@@ -1,1 +1,1 @@
-# Client
+this is Server OpenBSD
